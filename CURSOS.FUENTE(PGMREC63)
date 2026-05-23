@@ -1,4 +1,4 @@
-       IDENTIFICATION DIVISION.                                         00010000
+       IDENTIFICATION DIVISION.                                         
       *                                                        *        00010100
         PROGRAM-ID PGMREC63.                                            00010201
       *                                                        *        00010300
